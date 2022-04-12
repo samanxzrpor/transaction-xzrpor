@@ -13,3 +13,10 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+/resources
+/tests
+/storage
+/lang
+pakage.json
+phpunit.xml
+webpack.mix.js
